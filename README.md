@@ -16,7 +16,6 @@
 
 ---
 
-## 🌌 Glassmorphism Banner
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Welcome%20to%20PAIS&fontSize=40&fontColor=00E5FF&animation=fadeIn" />
@@ -80,7 +79,7 @@ Fork → Improve → PR → Get featured ✨
 
 ---
 
-## 🌙 Aesthetic Glassmorphism Footer
+## Hope to See You Again Weirdo!
 
 <div align="center" style="
     padding: 20px;
