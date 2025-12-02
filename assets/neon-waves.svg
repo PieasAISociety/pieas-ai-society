@@ -1,0 +1,16 @@
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ff005e"/>
+      <stop offset="100%" stop-color="#00eaff"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 130 Q 300 40 600 130 T 1200 130" fill="none" stroke="url(#grad)" stroke-width="3">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+      M0 130 Q 300 40 600 130 T 1200 130;
+      M0 130 Q 300 220 600 130 T 1200 130;
+      M0 130 Q 300 40 600 130 T 1200 130;
+    " />
+  </path>
+</svg>
